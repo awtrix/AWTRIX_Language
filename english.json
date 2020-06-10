@@ -269,5 +269,10 @@
     "WrongSize": "You can only upload 8x8 Icons or 32x8 Animations",
     "IconUploaded": "Your icon was successfully uploaded",
     "IconSaved": "Your private icon was successfully saved",
-    "AnimationUploaded": "Your animation was successfully uploaded"
+    "AnimationUploaded": "Your animation was successfully uploaded",
+    //Modals:
+    "StillLoading": "AWTRIX is still loading, please refresh the page in few seconds",
+    "NeedSelectPort": "You need to select a Port, if you want to use serial connection",
+    "SettingsSaved": "Settings have been saved. You need to restart the Host",
+    "RestartLanguage": "You need to restart AWTRIX to change the language"
 }
