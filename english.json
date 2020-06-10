@@ -237,6 +237,7 @@
     "EnterKey": "Enter your premium key here",
     "HaveKey": "I HAVE A KEY!",
     "RevokeKey": "Revoke key",
+    "NotConnected": "not connected",
     "WhatIs": "What is this?",
     "FritzBox": "Fritz!Box Call Monitor",
     "FritzIP": "Fritz!Box IP",
