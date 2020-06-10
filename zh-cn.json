@@ -231,8 +231,13 @@
     //Premium
     "PremiumSmall": "更多功能需要一点支持",
     "RemovePremium": "移除高级功能",
+    "NoPremium": "您的高级功能未开启",
+    "PremiumRemoved": "高级功能已移除!",
+    "PremiumRemovedNote": "你的高级激活码已经被移除",
+    "EnterKey": "请输入高级激活码",
     "HaveKey": "我有激活码!",
     "RevokeKey": "撤销激活码",
+    "NotConnected": "未连接",
     "WhatIs": "这是什么？",
     "FritzBox": "Fritz!Box Call Monitor",
     "FritzIP": "Fritz!Box IP",
@@ -244,7 +249,8 @@
     "SleepLux": "Sleep Lux",
     "SleepAt": "Sleep at",
     "WakeUp": "WakeUp at",
-    "SleepApp": "Sleep App",
+    "SleepApp": "休眠软件",
+    "SleepAppError": "休眠 %app% 软件并不存在。",
     "SleepBrightness": "亮度",
     "NoSwitch": "无开关动画",
     "AlarmClock": "闹钟",
@@ -257,6 +263,10 @@
     "Listenport": "监听端口",
     "Pairing": "Pairing",
     "PythonApps": "Python 软件",
+    "Pairingmode": "配对功能",
+    "PairingActive": "您现在可以要求Alexa搜索新设备。配对将在2分钟内处于活动状态。",
+    "PairingFailed": "首先您需要激活Alexa并保存设置",
+    "NewToken": "您的新云令牌为 %token%",
     //Map
     "Map": "AWTRIX 地图",
     "MapNote": "“此地图可帮助我了解我的项目到目前为止的广泛程度，因此我可以使AWTRIX适应某些国家/地区，这当然会极大地激发我为您提供越来越多的功能。这些坐标是使用IP地址生成的对AWTRIX Cloud Server的HTTP请求（例如，图标或应用程序下载），不会再发送其他设置或信息。此信息不会传递给第三方，也不会存储。该信息在我的服务器运行时会暂时保留，并且一旦AWTRIX主机脱机超过10分钟，就会将其完全删除。每个正常的网站呼叫，电子邮件传递或其他HTTP请求总是将IP地址留在各自的服务器上。你可以在<b>在主机设置中</b>决定是否让我可以使用它们进行评估。",
@@ -269,5 +279,14 @@
     "WrongSize": "您只能上传8x8图标或32x8动画",
     "IconUploaded": "您的图标已成功上传",
     "IconSaved": "您的私人图标已成功保存",
-    "AnimationUploaded": "您的动画已成功上传"
+    "AnimationUploaded": "您的动画已成功上传",
+    //Modals:
+    "StillLoading": "AWTRIX仍在加载中，请在几秒钟内刷新页面",
+    "NeedSelectPort": "如果要使用串行连接，则需要选择一个端口",
+    "SettingsSaved": "设置已保存。您需要重新启动服务端。",
+    "RestartLanguage": "您需要重新启动AWTRIX才能更改语言。",
+    "Awesome": "太棒了",
+    "PremiumMember": "感谢你支持 AWTRIX! <br> 你现在是一个高级会员了.",
+    "WentWrong": "出错了!",
+    "Oops": "诶呀!"
 }
