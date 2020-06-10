@@ -208,7 +208,7 @@
     "UpdateComplete": "更新完成",
     "UpdateComplete2": "更新成功。立即重新启动。请等待大约60s",
     "UpdateError": "更新错误",
-    "RestartNote": " AWTRIX现在重新启动。请等待大约60秒再刷新",
+    "RestartNote": "AWTRIX现在重新启动。请等待大约60秒再刷新",
     //MatrixStatus
     "MatrixStatus": "Matrix 状态",
     "MatrixVersion": "版本",
