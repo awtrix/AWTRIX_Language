@@ -1,5 +1,4 @@
 {
-    //Main
     "Navigation": "MAIN NAVIGATION",
     "Dashboard": "Dashboard",
     "MyApps": "My Apps",
@@ -34,7 +33,6 @@
     "No": "No",
     "Yes": "Yes",
     "Save": "Save",
-    //Home
     "Version": "Version",
     "AppUpdates": "APP UPDATES",
     "CurrentApp": "CURRENT APP",
@@ -73,7 +71,6 @@
     "ControllerReset": "The controller has been completely reset. You can now configure again",
     "UnkownCommand": "Unkown Command",
     "TerminalCommand": "Terminal command:",
-    //myApps
     "Disable": "Disable",
     "Enable": "Enable",
     "Disabled": "%app% disabled",
@@ -108,7 +105,6 @@
     "Deleting": "Deleting %app%",
     "Deleted": "%app% deleted",
     "Success": "Success",
-    //Appstore
     "Loading": "Loading Appstore",
     "ErrorNote": "Error while loading Appstore. See log for details",
     "AvailableUpdates": "Available Updates",
@@ -122,7 +118,6 @@
     "Updating": "Updating %app%",
     "UpdateSuccess": "%app% successfully updated!",
     "ErrorDownload": "There was an error while downloading, please try again",
-    //AppLoop
     "Customize": "Customize your Apploop",
     "CustomizeBody": "Move the individual apps by its titlebox to the desired position in the apploop. By cloning apps you can also show the same app several times in a single run.",
     "LoopChanged": "Original apploop has changed. Your current apploop doesnt contain following existing apps.",
@@ -131,7 +126,6 @@
     "Clone": "Clone",
     "LoopUpdate": "Updating..",
     "ResetApploop": "Reset apploop",
-    //HostSettings
     "Basic": "Basic Settings",
     "BasicSmall": "COLOR YOUR LIFE",
     "BootAnimation": "Boot Animation",
@@ -176,12 +170,12 @@
     "MaxLux": "Maximum Lux",
     "MinBrightness": "Minimum Brightness",
     "MaxBrightness": "Maximum Brightness",
-    //Arcade
+
     "AwtrixArcade": "AWTRIX ARCADE",
     "ArcadeSmall": "PLAY WITH PIXELS",
     "GameController": "GAMECONTROLLER NOT CONNECTED",
     "SelectGame": "Select your Game",
-    //HostStatus
+
     "HostStatus": "Host Status",
     "HostVersion": "VERSION",
     "HostUpdate": "HOSTUPDATE",
@@ -209,7 +203,7 @@
     "UpdateComplete2": "Update successful. Restarting now. Please wait approximately 60s",
     "UpdateError": "Update error",
     "RestartNote": "AWTRIX now restarts. Please wait approximately 60s before refresh",
-    //MatrixStatus
+
     "MatrixStatus": "Matrix Status",
     "MatrixVersion": "VERSION",
     "MatrixUpdate": "MATRIXUPDATE",
@@ -228,7 +222,7 @@
     "ErrorText": "The matrix has not yet connected to the Host. No data available!",
     "Serial": "Serial",
     "MatrixUpdateNote": "The update will now be processed. Please wait.",
-    //Premium
+
     "PremiumSmall": "More functions for a little support",
     "RemovePremium": "Remove Premium",
     "NoPremium": "Your Premium access istn active",
@@ -267,12 +261,12 @@
     "PairingActive": "You can now ask Alexa to search for new Devices. Pairing will be active for 2 Minutes.",
     "PairingFailed": "First you need to activate Alexa and save the Settings",
     "NewToken": "Your new cloudtoken is %token%",
-    //Map
+
     "Map": "AWTRIX MAP",
     "MapNote": "This Map helps me to see how widespread my project is so far, so I can adapt AWTRIX to certain countries and it motivates me of course massively to offer you more and more functions. The coordinates are generated with IP adresses from HTTP requests to the AWTRIX Cloud Server like Icon or App downloads. No further settings or information will be sent. This information is not passed on to third parties and is not stored. The information is kept temporarily during the runtime of my server, and is completely deleted as soon as an AWTRIX host is offline for more than 10 Minutes. Every normal website call, email delivery or other HTTP requests always leaves the IP address on the respective server. But you can decide, via the <b>Analytics- Switch in the Host settings</b>, if I can use them for evaluation.",
     "Country": "Country",
     "Users": "Users",
-    //AWTRIXER
+
     "OnlyASCII": "Only ASCII characters allowed! Please rename your icon/animation",
     "EnterName": "Please enter a meaningful name for your icon so that it can be found by other users as well.",
     "EmptyIcon": "This is an Icon creator. So please create one",
@@ -282,7 +276,7 @@
     "AnimationUploaded": "Your animation was successfully uploaded",
     "NoSpace": "No spaces in iconname allowed",
     "SpecialChars": "No special characters in iconname allowed",
-    //Modals:
+
     "StillLoading": "AWTRIX is still loading, please refresh the page in few seconds",
     "NeedSelectPort": "You need to select a Port, if you want to use serial connection",
     "SettingsSaved": "Settings have been saved. You need to restart the Host",
