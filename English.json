@@ -284,7 +284,7 @@
     "NoSpace": "No spaces in iconname allowed",
     "SpecialChars": "No special characters in iconname allowed",
     "IconUpload": "Do you want du upload this Icon with name %icon% ? After uploading, you can no longer edit it! You can use LiveView to view your icon directly on the matrix.",
-    "AnimationInstead": "Your sprite is bigger then 8x8. If you upload it, it cannot be used as an icon.  Nevertheless it can be uploaded for the app 'Animations'. Would you like to do this?",
+    "AnimationInstead": "Your Icon is bigger then 8x8. If you upload it, it cannot be used as an icon.  Nevertheless it can be uploaded for the app 'Animations'. Would you like to do this?",
     //Modals:
     "StillLoading": "AWTRIX is still loading, please refresh the page in few seconds",
     "NeedSelectPort": "You need to select a Port, if you want to use serial connection",
